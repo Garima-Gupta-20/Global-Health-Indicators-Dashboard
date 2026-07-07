@@ -51,6 +51,24 @@ This project presents an interactive Power BI dashboard built using global healt
 - Under-5 Mortality
 - Life Expectancy by Income Level
 
+  ## Dashboard Screenshots
+
+### Executive Dashboard
+![Executive Dashboard](Screenshots/Executive%20Dashboard.png)
+
+### Population Analysis
+![Population Analysis](Screenshots/Population%20Analysis.png)
+
+### Healthcare Infrastructure
+![Healthcare Infrastructure](Screenshots/Healthcare%20Infrastructure.png)
+
+### Health Outcomes
+![Health Outcomes](Screenshots/Health%20Outcomes.png)
+
+### Key Insights & Conclusion
+![Key Insights](Screenshots/Key%20Insights%20%26%20Conclusion.png)
+
+
 ### Key Insights & Conclusion
 
 ---
