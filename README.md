@@ -54,19 +54,19 @@ This project presents an interactive Power BI dashboard built using global healt
   ## Dashboard Screenshots
 
 ### Executive Dashboard
-![Executive Dashboard](Screenshots/Executive%20Dashboard.png)
+![Executive Dashboard](Executive%20Dashboard.png)
 
 ### Population Analysis
-![Population Analysis](Screenshots/Population%20Analysis.png)
+![Population Analysis](Population%20Analysis.png)
 
 ### Healthcare Infrastructure
-![Healthcare Infrastructure](Screenshots/Healthcare%20Infrastructure.png)
+![Healthcare Infrastructure](Healthcare%20Infrastructure.png)
 
 ### Health Outcomes
-![Health Outcomes](Screenshots/Health%20Outcomes.png)
+![Health Outcomes](Health%20Outcomes.png)
 
 ### Key Insights & Conclusion
-![Key Insights](Screenshots/Key%20Insights%20%26%20Conclusion.png)
+![Key Insights & Conclusion](Key%20Insights%20%26%20Conclusion.png)
 
 
 ### Key Insights & Conclusion
